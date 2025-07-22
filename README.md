@@ -86,3 +86,23 @@ MIT License — Free to use, learn from, and modify for educational purposes.
 ## Vision
 
 This project aims to digitally connect small-scale rural producers with urban consumers, promoting healthy eating, seasonal awareness, and support for local agriculture.
+
+## Learning Goals
+This project was developed as part of a personal learning journey with the following objectives:
+
+Improve relational database design (ER modeling, normalization)
+
+Practice writing complex SQL queries for reporting and analytics
+
+Connect Python with SQL Server using pyodbc and SQLAlchemy
+
+Apply data analysis techniques with pandas and Jupyter Notebook
+
+Understand how e-commerce systems manage orders, users, and inventory
+
+Explore basic analytics (most sold products, seasonal trends)
+
+Build clean and reusable code with modular Python scripts
+
+Learn how to structure a full-stack backend project on GitHub
+
