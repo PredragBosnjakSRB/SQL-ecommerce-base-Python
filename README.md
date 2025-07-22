@@ -10,7 +10,7 @@ It also introduces the concept of a weekly curated “Farm Box” with seasonal 
 
 - Sale of local fruits, vegetables, meat, honey, and homemade products
 - Multiple registered small producers (farmers)
-- 🧺 Weekly “Farm Box” — curated seasonal items
+- Weekly “Farm Box” — curated seasonal items
 - Shopping cart and ordering
 - Contact form and customer messages
 - Recipe suggestions linked to products
